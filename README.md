@@ -153,6 +153,12 @@ Macro for [single-precision floating-point][ieee754] NaN.
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float64/nan`][@stdlib/constants/float64/nan]</span><span class="delimiter">: </span><span class="description">double-precision floating-point NaN.</span>
+
 </section>
 
 <!-- /.related -->
@@ -230,6 +236,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-float32-nan/main/LICENSE
 
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float64/nan]: https://github.com/stdlib-js/constants-float64-nan
+
+<!-- </related-links> -->
 
 </section>
 
