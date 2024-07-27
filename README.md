@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_NAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-nan@deno/mod.js';
+import FLOAT32_NAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-nan@v0.2.2-deno/mod.js';
 ```
 
 #### FLOAT32_NAN
@@ -67,7 +67,7 @@ var bool = ( FLOAT32_NAN !== FLOAT32_NAN );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_NAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-nan@deno/mod.js';
+import FLOAT32_NAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-nan@v0.2.2-deno/mod.js';
 
 console.log( FLOAT32_NAN );
 // => NaN
