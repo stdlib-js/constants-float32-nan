@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.2">
 
-## Unreleased (2024-08-01)
+## 0.2.2 (2024-07-27)
 
 <section class="commits">
 
@@ -12,35 +12,13 @@
 
 <details>
 
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
+-   [`98ae85e`](https://github.com/stdlib-js/stdlib/commit/98ae85e1daf32d48a1d3173cfbcb229c722fc79c) - **docs:** update related packages sections [(#2107)](https://github.com/stdlib-js/stdlib/pull/2107) _(by stdlib-bot)_
 
 </details>
 
 </section>
 
 <!-- /.commits -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.2.2">
-
-## 0.2.2 (2024-07-27)
-
-No changes reported for this release.
 
 </section>
 
@@ -70,7 +48,41 @@ No changes reported for this release.
 
 ## 0.1.0 (2024-01-16)
 
-No changes reported for this release.
+<section class="features">
+
+### Features
+
+-   [`ff424f9`](https://github.com/stdlib-js/stdlib/commit/ff424f9ec44b20c9d8f6e73af4076af9ace49990) - add `constants/float32/nan`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`ff424f9`](https://github.com/stdlib-js/stdlib/commit/ff424f9ec44b20c9d8f6e73af4076af9ace49990) - **feat:** add `constants/float32/nan` _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
