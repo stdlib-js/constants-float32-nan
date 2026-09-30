@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-02)
+## Unreleased (2026-09-30)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`fb5ec21`](https://github.com/stdlib-js/stdlib/commit/fb5ec210035434f3734e3e0c16f1b9365880eefa) - add parentheses to NaN macros [(#15676)](https://github.com/stdlib-js/stdlib/pull/15676)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`fb5ec21`](https://github.com/stdlib-js/stdlib/commit/fb5ec210035434f3734e3e0c16f1b9365880eefa) - **fix:** add parentheses to NaN macros [(#15676)](https://github.com/stdlib-js/stdlib/pull/15676) _(by Karan Anand)_
 -   [`8879b1d`](https://github.com/stdlib-js/stdlib/commit/8879b1d32513bce3f1cc083787d3ca504f7673a4) - **docs:** tidy doc and C macro drift in `@stdlib/constants-float32` [(#12432)](https://github.com/stdlib-js/stdlib/pull/12432) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
